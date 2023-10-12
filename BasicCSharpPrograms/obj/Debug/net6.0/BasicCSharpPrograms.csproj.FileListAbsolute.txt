@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\bin\Debug\net6.0\BasicCSharpPrograms.exe
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\bin\Debug\net6.0\BasicCSharpPrograms.deps.json
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\bin\Debug\net6.0\BasicCSharpPrograms.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\bin\Debug\net6.0\BasicCSharpPrograms.dll
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\bin\Debug\net6.0\BasicCSharpPrograms.pdb
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\BasicCSharpPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\BasicCSharpPrograms.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\BasicCSharpPrograms.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\BasicCSharpPrograms.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\BasicCSharpPrograms.dll
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\refint\BasicCSharpPrograms.dll
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\BasicCSharpPrograms.pdb
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\BasicCSharpPrograms.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\BasicCSharpPrograms\BasicCSharpPrograms\obj\Debug\net6.0\ref\BasicCSharpPrograms.dll
