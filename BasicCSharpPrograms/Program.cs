@@ -1,16 +1,8 @@
-﻿using System;
+﻿// even or odd program
 
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Enter the first number: ");
-        int number1 = Convert.ToInt32(Console.ReadLine());
+using BasicCSharpPrograms;
 
-        Console.WriteLine("Enter the second number: ");
-        int number2 = Convert.ToInt32(Console.ReadLine());
+var evenorodd = new EvenOrOdd();
+evenorodd.Check();
 
-        int sum = number1 + number2;
-        Console.WriteLine($"The sum of {number1} and {number2} is: {sum}");
-    }
-}
+
